@@ -17,5 +17,5 @@ Add the path to the OS system environment variables.
 To download a YouTube playlist as audio, use the following command:
 
 ```bash
-yt-dlp "https://youtube.com/playlist?list=PL2qy9Ni8sLNY_o-3MAivOMBiekKmbaBPK&si=jA-a9sw875mwoSJn" -f bestaudio
+yt-dlp -P "C:\Users\Javier\Downloads\Music" "https://youtube.com/playlist?list=PL2qy9Ni8sLNY_o-3MAivOMBiekKmbaBPK&si=jA-a9sw875mwoSJn" -f bestaudio
 ```
